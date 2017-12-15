@@ -3,7 +3,7 @@
 * Hierarchical Approach in Large Scale Image Recognition with Deep Learning
 * ILSVRC 2015 - Miletos Team Entry (Results : http://image-net.org/challenges/LSVRC/2015/results)
 * Took the 19th place in ILSVRC 2015 using without model and scale ensembling
-* Took the 1st place in several classes (red fox, brown bear) in classification track
+* Took the 1st place in several classes (red fox, brown bear, ...) in classification track
 
 ## Abstract
 
